@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-size: 1.18rem;
+    color: #40514E;
+}
+h1{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 4rem;
+    font-family: 'Edu QLD Beginner', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2 {
+    color: #66BFBF;
+}
+h3 {
+    color: #11999E;
+
+}
+p {
+    margin-top: 0;
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+    line-height: 2;
+}
+hr {
+    border: dotted black 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+
+
+
+
+.top{
+    background-color: #E4F9F5;
+    padding: 10px;
+    
+}
+.middle-container {
+    margin: 100px 0;
+}
+.web {
+    text-decoration: underline;
+}
+.top-c{
+    position: relative;
+    padding-top: 100px;
+    left: 300px;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+.bottom-c {
+    position: absolute;
+    left: 200px;
+}
+.footer-link {
+    color: #0c5492;
+    margin: 20px 10px;
+    text-decoration: none;
+}
+.footer-link:hover {
+    color: #e4fbff;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}  
+.img-gif {
+    width:  25%;
+    float: left;
+    padding-right: 30px;
+}
+.img-chill {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+.copy {
+    padding: 20px 0;
+    color: #000000;
+    font-size: small;
+}
+
+
+
+.BUTTON_SDJ {
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: 10;
+    padding: 10px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_SDJ:hover {
+    border: solid #000000 1px;
+    background: #366EC9;
+    background-image: -webkit-linear-gradient(top, #366EC9, #69A6EB);
+    background-image: -moz-linear-gradient(top, #366EC9, #69A6EB);
+    background-image: -ms-linear-gradient(top, #366EC9, #69A6EB);
+    background-image: -o-linear-gradient(top, #366EC9, #69A6EB);
+    background-image: -webkit-gradient(to bottom, #366EC9, #69A6EB);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
